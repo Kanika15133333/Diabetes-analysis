@@ -1,14 +1,14 @@
-# 📊 Clustering Analysis
+# 🩺 Diabetes Analysis
 
 ## 📌 Project Overview
-This project focuses on performing clustering analysis to identify hidden patterns, similarities, and natural groupings within a dataset using unsupervised machine learning techniques.
+This project focuses on exploring and analysing diabetes-related data using Python. It aims to understand patterns, identify important factors, and gain insights through data analysis and visualization.
 
 ## 🎯 Objectives
-- Explore and understand the dataset.
-- Perform data preprocessing and exploratory data analysis.
-- Apply clustering algorithms to group similar data points.
-- Identify meaningful patterns and relationships.
-- Visualize and interpret clustering results.
+- Explore and understand the diabetes dataset.
+- Perform data cleaning and preprocessing.
+- Analyse relationships between different health-related features.
+- Identify patterns and trends in the dataset.
+- Visualize important findings using graphs and charts.
 
 ## 🛠️ Technologies & Libraries
 - Python
@@ -17,32 +17,31 @@ This project focuses on performing clustering analysis to identify hidden patter
 - NumPy
 - Matplotlib
 - Seaborn
-- Scikit-learn
 
-*Note: The libraries listed above should match the ones actually used in the notebook.*
+*Note: Include only the libraries actually used in your notebook.*
 
 ## 📂 Project Structure
 
 ```text
-Clustering-Analysis/
+Diabetes-Analysis/
 │
-├── Clustering_Analysis.ipynb
+├── Diabetes_Analysis.ipynb
 └── README.md
 ```
 
 ## ⚙️ Methodology
-1. Dataset exploration
+1. Data collection and exploration
 2. Data cleaning and preprocessing
-3. Exploratory data analysis
-4. Application of clustering techniques
-5. Visualization of clusters
-6. Interpretation of results
+3. Exploratory Data Analysis (EDA)
+4. Data visualization
+5. Analysis and interpretation of findings
 
-## 📈 Key Learning Outcomes
-- Understanding unsupervised machine learning.
-- Learning how clustering algorithms work.
-- Developing data visualization skills.
-- Identifying patterns in complex datasets.
+## 📊 Key Learning Outcomes
+- Understanding real-world healthcare datasets.
+- Developing exploratory data analysis skills.
+- Learning data visualization techniques.
+- Identifying relationships between dataset variables.
+- Drawing insights from data.
 
 ## 🚀 How to Run
 1. Clone this repository:
@@ -50,12 +49,12 @@ Clustering-Analysis/
    git clone YOUR_REPOSITORY_URL
    ```
 2. Open the project folder.
-3. Install the required libraries.
+3. Install the required Python libraries.
 4. Launch Jupyter Notebook:
    ```bash
    jupyter notebook
    ```
-5. Open the `.ipynb` file and run the cells.
+5. Open the `.ipynb` file and run the notebook cells.
 
 ## 👩‍💻 Author
 **Kanika Sharma**
